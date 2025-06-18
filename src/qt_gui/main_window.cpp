@@ -21,6 +21,7 @@
 #include "core/file_format/pkg.h"
 #include "core/loader.h"
 #include "game_install_dialog.h"
+#include "install_dir_select.h"
 #include "kbm_gui.h"
 #include "main_window.h"
 #include "settings_dialog.h"
